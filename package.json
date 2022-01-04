@@ -33,7 +33,7 @@
     "react-hot-toast": "^2.1.1",
     "react-intersection-observer": "^8.32.2",
     "react-query": "^3.31.0",
-    "react-stately": "^3.9.0",
+    "react-stately": "^3.11.0",
     "zod": "^3.11.6"
   },
   "devDependencies": {
